@@ -10,21 +10,20 @@ I bring educator expertise that can only be developed through years in the class
 
 ## Featured Projects
 
-**AI Lesson Plan Evaluation (MagicSchool + CCSS 3rd Grade Math)**  
-A qualitative analysis of an AI-generated lesson plan aligned to CCSS.Math.Content.3.G.A.1.  
-Includes rubric-based evaluation, reflections, and suggested improvements based on real classroom experience.
+- **[AI Lesson Plan Evaluation (MagicSchool + CCSS 3rd Grade Math)](lesson-plan-evaluation.md)**  
+  A qualitative analysis of an AI-generated lesson plan aligned to CCSS.Math.Content.3.G.A.1.  
+  Includes rubric-based evaluation, reflections, and suggested improvements based on real classroom experience.
 
-**Assessment Evaluation and Redesign**  
-A review of an AI-generated multiple-choice assessment for concept accuracy, cognitive demand, and age-appropriate design.  
-Includes side-by-side comparison of AI-generated and human-revised versions.
-
+- **[Assessment Evaluation and Redesign](assessment-evaluation.md)**  
+  A review of an AI-generated multiple-choice assessment for concept accuracy, cognitive demand, and age-appropriate design.  
+  Includes side-by-side comparison of AI-generated and human-revised versions.
 
 ---
 
 ## Tools I Use
-- **AI Platforms:** MagicSchool, ChatGPT, Khanmigo, Diffit
+- **AI Platforms:** MagicSchool, ChatGPT, Khanmigo, Diffit  
   *(Used for exploration, comparison, and evaluation to better understand AI-generated instructional design and quality)*  
-- **Productivity:** Google Workspace, Microsoft 365, Adobe Acrobat, Jira
+- **Productivity:** Google Workspace, Microsoft 365, Adobe Acrobat, Jira  
 - **Evaluation and QA:** Rubric design, data analysis, prompt testing  
 - **Technical Skills:** GitHub, Markdown, data organization in spreadsheets
 

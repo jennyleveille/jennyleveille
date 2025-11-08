@@ -3,7 +3,7 @@
 ## Prompt / Input
 **Grade Level:** 3rd  
 **Standard:** CCSS.Math.Content.3.G.A.1
-Understand that shapes in different categories (e.g., rhombuses, rectangles, and others) may share attributes (e.g., having four sides), and that the shared attributes can define a larger category (e.g., quadrilaterals). Recognize rhombuses, rectangles, and squares as examples of quadrilaterals, and draw examples of quadrilaterals that do not belong to any of these subcategories.
+Understand that shapes in different categories (e.g., rhombuses, rectangles, and others) may share attributes (e.g., having four sides), and that the shared attributes can define a larger category (e.g., quadrilaterals). Recognize rhombuses, rectangles, and squares as examples of quadrilaterals, and draw examples of quadrilaterals that do not belong to any of these subcategories.  
 **Additional Information:** Students have difficulty differentiating between quadrilaterals.
 
 
@@ -125,3 +125,4 @@ Monitor performance and record misconceptions.
 ## Reflections
 
 The MagicSchool lesson plan accurately addressed the standard given but did not plan for how long it will take students to grasp this tricky standard. The activities generated are engaging and age-appropriate but would be better spread across two lessons to move at a more realistic pace with this material. A materials list and better ideas for scaffolding for struggling students would be helpful.
+

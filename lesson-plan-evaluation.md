@@ -26,21 +26,21 @@ Give students a mixed packet of 12 shapes (printed or projected)—including sev
    - (B) Quadrilaterals that are not any of those subcategories
 2. For three shapes from group B, draw their own quadrilateral examples that show why they do not belong to the subcategories (label sides and/or angles that justify the classification)
 
-**Mastery:** Correctly sort at least 10 of 12 shapes and provide three valid original drawings with labels demonstrating reasons why they are not rhombuses/rectangles/squares.
+Mastery: Correctly sort at least 10 of 12 shapes and provide three valid original drawings with labels demonstrating reasons why they are not rhombuses/rectangles/squares.
 
 ---
 
 ## Key Points
 - Quadrilaterals are polygons with exactly four sides. This is the broad category that contains many specific types.  
-- **Rectangles:** Four sides, four right angles; opposite sides equal and parallel. Squares meet rectangle criteria but also have four equal sides.  
-- **Rhombuses:** Four equal sides; opposite sides are parallel; angles are not necessarily right angles. A square is a special rhombus and a special rectangle.  
+- Rectangles: Four sides, four right angles; opposite sides equal and parallel. Squares meet rectangle criteria but also have four equal sides.  
+- Rhombuses: Four equal sides; opposite sides are parallel; angles are not necessarily right angles. A square is a special rhombus and a special rectangle.  
 - Some quadrilaterals (kites, trapezoids, irregular quadrilaterals) share the “four sides” attribute but do not meet the defining attributes of rectangles, rhombuses, or squares.  
-- **Vocabulary to emphasize:** quadrilateral, side, vertex, parallel, right angle, equal sides, rectangle, rhombus, square, kite, trapezoid, irregular quadrilateral.
+- Vocabulary to emphasize: quadrilateral, side, vertex, parallel, right angle, equal sides, rectangle, rhombus, square, kite, trapezoid, irregular quadrilateral.
 
 ---
 
 ## Opening
-- **Hook:** Show three images quickly (1-second flashes) — a square, a kite, and a rectangle — and ask: “Which of these are in the same family? Why or why not?” Students jot one-word reasons.  
+- Hook: Show three images quickly (1-second flashes) — a square, a kite, and a rectangle — and ask: “Which of these are in the same family? Why or why not?” Students jot one-word reasons.  
 - Explain students will be “shape detectives” deciding which shapes belong to certain families and drawing shapes that break the rules.  
 - Review classroom norms for partner work and using rulers/protractors when needed.
 
@@ -51,17 +51,17 @@ Give students a mixed packet of 12 shapes (printed or projected)—including sev
 - Present three labeled examples side-by-side: rectangle, rhombus, square. Use overlays or colored outlines to highlight attributes.  
 - Demonstrate Venn-like reasoning: Explain how shapes can belong to more than one category (e.g., square is both a rhombus and a rectangle).  
 - Show counterexamples: kite and trapezoid. Point out which attributes they lack.  
-- **Active student engagement:** Hand out attribute cards. Show a shape and call on partners to hold up cards that apply. Rotate through several shapes.  
-- **Anticipated misconception:** Students often think all four-sided shapes with two pairs of equal sides are rectangles. Clarify that right angles matter.
+- Active student engagement: Hand out attribute cards. Show a shape and call on partners to hold up cards that apply. Rotate through several shapes.  
+- Anticipated misconception: Students often think all four-sided shapes with two pairs of equal sides are rectangles. Clarify that right angles matter.
 
 ---
 
 ## Guided Practice
-- **Behavioral expectations:** Work with a partner, whisper voices, share tools, speak respectfully.  
-- **Activity 1 (Whole-class demo, 8 min):** Project six shapes. Teacher models sorting with think-aloud. Ask:  
+- Behavioral expectations: Work with a partner, whisper voices, share tools, speak respectfully.  
+- Activity 1 (Whole-class demo, 8 min): Project six shapes. Teacher models sorting with think-aloud. Ask:  
   - “Does this have four right angles?”  
   - “Are all sides equal?”  
-- **Activity 2 (Partner sorting, 12 min):** Pairs sort 12 mixed shapes using an attribute checklist. Teacher circulates asking:  
+- Activity 2 (Partner sorting, 12 min): Pairs sort 12 mixed shapes using an attribute checklist. Teacher circulates asking:  
   - “Which attributes did you use to decide?”  
   - “Could this shape be in more than one category? Why?”  
   - “What would you change to make this shape a rectangle or rhombus?”  
@@ -71,17 +71,17 @@ Monitor performance and record misconceptions.
 ---
 
 ## Independent Practice
-- **Behavioral expectations:** Quiet independent work, label drawings, check off attributes.  
-- **Assignment (20 min):**  
-  - **Section A:** 8 unlabelled quadrilateral images. Identify subcategory or “none of these” with one-sentence justification.  
-  - **Section B:** Create 3 original quadrilaterals not in subcategories. Label at least one attribute that proves it doesn’t belong.  
-- **Differentiation:** Templates for drawing support; challenge extension for advanced students.  
-- **Assessment connection:** Collect papers and score using rubric: correct ID (1 pt each), justifications (1 pt each), original drawings validity (2 pts each).
+- Behavioral expectations: Quiet independent work, label drawings, check off attributes.  
+- Assignment (20 min):  
+  - Section A: 8 unlabelled quadrilateral images. Identify subcategory or “none of these” with one-sentence justification.  
+  - Section B: Create 3 original quadrilaterals not in subcategories. Label at least one attribute that proves it doesn’t belong.  
+- Differentiation: Templates for drawing support; challenge extension for advanced students.  
+- Assessment connection: Collect papers and score using rubric: correct ID (1 pt each), justifications (1 pt each), original drawings validity (2 pts each).
 
 ---
 
 ## Closing
-- **Exit Ticket (5 min):** On an index card:  
+- Exit Ticket (5 min): On an index card:  
   1. One sentence: “A quadrilateral is…”  
   2. One example: Name/sketch a quadrilateral that is not a rectangle, rhombus, or square and explain why.  
 - Collect exit tickets to inform reteach groups.
@@ -125,4 +125,5 @@ Monitor performance and record misconceptions.
 ## Reflections
 
 The MagicSchool lesson plan accurately addressed the standard given but did not plan for how long it will take students to grasp this tricky standard. The activities generated are engaging and age-appropriate but would be better spread across two lessons to move at a more realistic pace with this material. A materials list and better ideas for scaffolding for struggling students would be helpful.
+
 
